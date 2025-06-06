@@ -8,7 +8,7 @@ This repository serves as an archive of time series models I used during my mast
 
 ### 📁 File Structure
 
-- `code/`: Contains modified scripts (e.g., `try_11.m`, `try_22.m`);
+- `code/`: Contains modified scripts (e.g., `try_11.m`);
 - `ref/`: Original TVP-VAR package. The `mcmc.m` file has been modified with the following changes:
   - Output for `sa2` was added;
   - Line 122: changed the value of `npmt` to 6;

@@ -25,7 +25,7 @@ This repository serves as an archive of time series models I used during my mast
 
 ## 2. DCC-GARCH (R)
 
-- This section is for backup purposes only.
+This section is for backup purposes only.
 
 The script `during_covid-19_DCC.R` contains my working notes from applying the DCC-GARCH model during the COVID-19 period. It represents a snapshot of the modeling process at the time and is **not** a fully cleaned or reproducible analysis pipeline.
 
